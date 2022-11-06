@@ -23,10 +23,10 @@ enableCodeCopy = true
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 5
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "/img/bg.jpg" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 100
   showMoreLink = false
   showMoreLinkDest = "/posts"
 
@@ -35,25 +35,25 @@ enableCodeCopy = true
   #showViews = true
   #showLikes = true
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showHero = true
   heroStyle = "basic" # valid options: basic, big, background
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = true
+  showEdit = false
   # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
+  editAppendPath = false
   seriesOpened = false
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
-  showTableOfContents = true
+  showReadingTime = false
+  showTableOfContents = false
   showTaxonomies = false 
   showAuthorsBadges = false 
-  showWordCount = true
-  showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
+  showWordCount = false
+  showSummary = false
+  sharingLinks = [ ]
 
 [list]
   showBreadcrumbs = false
