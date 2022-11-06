@@ -6,3 +6,10 @@ categories: ["English"]
 tags: ["test"]
 ---
 An English test.
+<br>
+<br>
+<br>
+<br>
+<br>
+Ins't this cool?
+![](featured.png)

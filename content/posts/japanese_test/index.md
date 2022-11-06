@@ -6,3 +6,10 @@ categories: ["日本語"]
 tags: ["test"]
 ---
 日本語のテストです。
+<br>
+<br>
+<br>
+<br>
+<br>
+かっこいいじゃん？
+![](featured.png)
