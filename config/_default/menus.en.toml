@@ -11,13 +11,18 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Blog"
+ name = "All posts"
  pageRef = "posts"
+ weight = 9
+
+[[main]]
+ name = "English"
+ pageRef = "/categories/English"
  weight = 10
 
 [[main]]
  name = "日本語"
- pageRef = ""
+ pageRef = "/categories/日本語/"
  weight = 20
 
 #[[main]]
