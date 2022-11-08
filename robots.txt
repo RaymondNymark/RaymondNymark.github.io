@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://nymark.cloud/sitemap.xml
